@@ -3,6 +3,9 @@ from collections import defaultdict
 
 
 class CsvModel(object):
+    '''
+    test
+    '''
     def __init__(self):
         self.ranking_result = []
         self.data = defaultdict(int)
